@@ -16,15 +16,15 @@ To run this project, you need to have Python installed, along with several libra
 1. Clone the Repository: Download or clone the project from GitHub to your local machine.
 
 2. Prepare Your Files:
- - Ensure the Excel file contains the relevant columns, including client name, civil status, address, ID type and number, expiry date, and NIF.
- - Prepare a Word template that includes placeholders where the data will be inserted, such as name, address, and identification details.
+   - Ensure the Excel file contains the relevant columns, including client name, civil status, address, ID type and number, expiry date, and NIF.
+   - Prepare a Word template that includes placeholders where the data will be inserted, such as name, address, and identification details.
    
 3. Run the Application:
- - Open the program and use the interface to select your Excel file and Word document template.
- - Click the button to generate the contracts.
+   - Open the program and use the interface to select your Excel file and Word document template.
+   - Click the button to generate the contracts.
    
 4. View Results:
- - The generated Word documents will be saved in a folder on your desktop, organized by the current date.
+   - The generated Word documents will be saved in a folder on your desktop, organized by the current date.
 # Example Workflow
  Select your Excel file containing the client information.
  Select the Word template with placeholders.
